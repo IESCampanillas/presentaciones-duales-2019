@@ -4,6 +4,7 @@ Enlaces a las presentaciones (en formato pdf) de los alumnos duales del curso 20
 
 ## DAM
 
+* Amo Olsson - [Presentación Dual(https://view.genial.ly/5c80f9d27a47dd56b8a4c5ee/presentacion-dual)
 * 
 
 ## DAW
