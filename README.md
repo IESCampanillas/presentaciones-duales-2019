@@ -6,6 +6,7 @@ Enlaces a las presentaciones (en formato pdf) de los alumnos duales del curso 20
 
 * Amo Olsson, Christian - [Presentación Dual](https://view.genial.ly/5c80f9d27a47dd56b8a4c5ee/presentacion-dual)
 * García Fernández, Guillermo - [Presentación Dual](https://github.com/GuillermoGarcia/presentacion-dual-2019) 
+* Rebollo Benítez, Salvador - [Presentación Dual](https://github.com/SalvaRebollo/Presentacion-Dual-DEKRA-Salvador-Rebollo-Benitez-2019) 
 *
 
 ## DAW
