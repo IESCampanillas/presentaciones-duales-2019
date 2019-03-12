@@ -15,6 +15,7 @@ Enlaces a las presentaciones (en formato pdf) de los alumnos duales del curso 20
 ## DAW
 
 * Blanco Salgado, Lucía - [Presentación](https://github.com/joseanfernandez/presentacion-dual-fc)
+* Bueno Aguilar, Ángeles - [Presentación](https://github.com/angelesbueno/formaciondual2)
 * Campos Jurado, Rafael - [Presentación](https://github.com/rafacampjurado/presentacion2018-19/blob/master/Formaci%C3%B3n%20dual%202018-2019.pdf) 
 * Chamorro Silva, Adrián - [Presentación](https://github.com/AdrianChSilva/Presentacion-Dual-CGI)
 * Estebanez Villarrubia, Adán - [Presentación](https://github.com/AdanEstebanez99/Presentacion-DUAL-2DAW/blob/master/Presentacion%20DUAL%202DAW.pdf) 
