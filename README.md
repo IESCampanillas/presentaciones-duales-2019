@@ -10,6 +10,7 @@ Enlaces a las presentaciones (en formato pdf) de los alumnos duales del curso 20
 * García Ruiz, Cintia - [Presentación Dual](https://view.genial.ly/5c84def0173b166bd5a7c03e/presentacion-dual)
 * Rebollo Benítez, Salvador - [Presentación Dual](https://github.com/SalvaRebollo/Presentacion-Dual-DEKRA-Salvador-Rebollo-Benitez-2019) 
 * Vargas Galán, Jesús - [Presentación Dual](https://view.genial.ly/5c7e509b7d15495764fb478e/presentacion-dual)
+* Ruiz Mostazo, José Antonio - [Presentación Dual](https://view.genial.ly/5c7e509b7d15495764fb478e/presentacion-dual)
 * Villena Gil, Juan David - [Presentación Dual](https://view.genial.ly/5c80fb174f100145bf66f01d/presentacion-dual) 
 * 
 ## DAW
