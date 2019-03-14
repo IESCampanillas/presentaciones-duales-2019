@@ -6,6 +6,7 @@ Enlaces a las presentaciones (en formato pdf) de los alumnos duales del curso 20
 
 * Amo Olsson, Christian - [Presentación Dual](https://view.genial.ly/5c80f9d27a47dd56b8a4c5ee/presentacion-dual)
 * Caralt Caralt, Alejandro - [Presentación Dual](https://view.genial.ly/5c7e509b7d15495764fb478e/presentacion-dual)
+* Espejo Garcia, Ignacio - [Presentanción Dual](https://github.com/NachoEspejo/DUAL2019)
 * Fernández García, Jose Antonio - [Presentación](https://github.com/joseanfernandez/presentacion-dual-fc)
 * Fernández Nadales, Andrés - [Presentación Dual](https://github.com/andresfernandeznad/Presentacion-Dual)
 * García Fernández, Guillermo - [Presentación Dual](https://github.com/GuillermoGarcia/presentacion-dual-2019)
