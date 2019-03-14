@@ -7,13 +7,14 @@ Enlaces a las presentaciones (en formato pdf) de los alumnos duales del curso 20
 * Amo Olsson, Christian - [Presentación Dual](https://view.genial.ly/5c80f9d27a47dd56b8a4c5ee/presentacion-dual)
 * Caralt Caralt, Alejandro - [Presentación Dual](https://view.genial.ly/5c7e509b7d15495764fb478e/presentacion-dual)
 * Fernández García, Jose Antonio - [Presentación](https://github.com/joseanfernandez/presentacion-dual-fc)
+* Fernández Nadales, Andrés - [Presentación Dual](https://github.com/andresfernandeznad/Presentacion-Dual)
 * García Fernández, Guillermo - [Presentación Dual](https://github.com/GuillermoGarcia/presentacion-dual-2019)
 * García Ruiz, Cintia - [Presentación Dual](https://view.genial.ly/5c84def0173b166bd5a7c03e/presentacion-dual)
 * Rebollo Benítez, Salvador - [Presentación Dual](https://github.com/SalvaRebollo/Presentacion-Dual-DEKRA-Salvador-Rebollo-Benitez-2019) 
 * Vargas Galán, Jesús - [Presentación Dual](https://view.genial.ly/5c7e509b7d15495764fb478e/presentacion-dual)
 * Ruiz Mostazo, José Antonio - [Presentación Dual](https://view.genial.ly/5c7e509b7d15495764fb478e/presentacion-dual)
-* Villena Gil, Juan David - [Presentación Dual](https://view.genial.ly/5c80fb174f100145bf66f01d/presentacion-dual) 
-* 
+* Villena Gil, Juan David - [Presentación Dual](https://view.genial.ly/5c80fb174f100145bf66f01d/presentacion-dual)
+
 ## DAW
 
 * Blanco Salgado, Lucía - [Presentación](https://github.com/joseanfernandez/presentacion-dual-fc)
@@ -22,4 +23,4 @@ Enlaces a las presentaciones (en formato pdf) de los alumnos duales del curso 20
 * Chamorro Silva, Adrián - [Presentación](https://github.com/AdrianChSilva/Presentacion-Dual-CGI)
 * Estebanez Villarrubia, Adán - [Presentación](https://github.com/AdanEstebanez99/Presentacion-DUAL-2DAW/blob/master/Presentacion%20DUAL%202DAW.pdf) 
 * Villalba Sánchez, Adrián - [Presentación](https://github.com/AdrianVillalbaSanchez/Presentacion_Dual_2)
-*Meléndez Bravo, Esther - [Presentación](https://github.com/esthermelendez/TESTING-VIEWNEXT/blob/master/VIEWNEXT%20TESTING.pdf)
+* Meléndez Bravo, Esther - [Presentación](https://github.com/esthermelendez/TESTING-VIEWNEXT/blob/master/VIEWNEXT%20TESTING.pdf)
