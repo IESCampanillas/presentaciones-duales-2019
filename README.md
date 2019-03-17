@@ -26,3 +26,4 @@ Enlaces a las presentaciones (en formato pdf) de los alumnos duales del curso 20
 * Estebanez Villarrubia, Adán - [Presentación](https://github.com/AdanEstebanez99/Presentacion-DUAL-2DAW/blob/master/Presentacion%20DUAL%202DAW.pdf) 
 * Villalba Sánchez, Adrián - [Presentación](https://github.com/AdrianVillalbaSanchez/Presentacion_Dual_2)
 * Meléndez Bravo, Esther - [Presentación](https://github.com/esthermelendez/TESTING-VIEWNEXT/blob/master/VIEWNEXT%20TESTING.pdf)
+* Parejo Ramos, Beatriz  - [Presentación](https://github.com/BeatrizPR/formacionDual2) 
